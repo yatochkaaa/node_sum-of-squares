@@ -1,4 +1,7 @@
-# Sum() - [put the task name here]
-[put a short description here] Implement the `sum` function returning a sum of two numbers
+# NodeJS - Sum of squares
+Create 3 modules:
+- `function sum(x, y)`
+- `function square(x)`
+- `function sumOfSquares(x, y)` using `sum` and `square`
 
-**Read [the guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md) before start**
+Each module will be tested separatelly
